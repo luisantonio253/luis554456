@@ -1,0 +1,8 @@
+No Enem, acertar uma questão pode valer quase nada.
+Ana e Bruno acertaram trinta questões cada um. Mas a Ana tirou bem mais.
+A culpa é da TRI, a Teoria de Resposta ao Item.
+O sistema já sabe quais questões são fáceis e quais são difíceis.
+O Bruno errou as fáceis e acertou as difíceis.
+É como errar o gol vazio e marcar de olhos fechados.
+Para a TRI, isso não é talento. É chute.
+O gol conta. Só que vale menos.
